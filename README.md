@@ -12,3 +12,10 @@ Coverage path planning (CPP) is a fundamental task to many robotics applications
 
 ### Random environments with multiple rectangular regions to cover
 ![Random environments with multiple rectangular regions to cover](https://github.com/WJTung/GA-TSPCPP/blob/master/random_map/21/1080_1080/01/GA_path.jpg)
+
+### Usage
+1. Compile GA.cpp and optimal.cpp to get executable files GA and optimal
+2. Execute the main program TSPCPP.py with Python3, there are some options
+    * Line 21 : test case, W and H have to be modified according to test case (follow Line 13 ~ 19).
+    * Line 26 ~ 29 : Those options are just for convenience of experiments, can be set to 0 to save time if the required input of that part already exists.
+    * Line 31 : Whether to save result figures directly or show the animation step by step.
