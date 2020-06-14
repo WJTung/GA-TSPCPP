@@ -19,3 +19,5 @@ Coverage path planning (CPP) is a fundamental task to many robotics applications
     * Line 21 : test case, W and H have to be modified according to test case (follow Line 13 ~ 19).
     * Line 26 ~ 29 : Those options are just for convenience of experiments, can be set to 0 to save time if the required input of that part already exists.
     * Line 31 : Whether to save result figures directly or show the animation step by step.
+
+W.-C. Tung and J.-S. Liu, "SOLUTION OF AN INTEGRATED TRAVELING SALESMAN AND COVERAGE PATH PLANNING PROBLEM BY USING A GENETIC ALGORITHM WITH MODIFIED OPERATORS," IADIS International Journal on Computer Science and Information Systems, volume 14, number 2, pages 95-114, December 2019.
